@@ -1,9 +1,4 @@
-import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
 # --- 라이브러리 임포트 ---
 # 필요한 라이브러리들을 불러옵니다.
 import streamlit as st
